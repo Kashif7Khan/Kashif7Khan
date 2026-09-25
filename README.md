@@ -482,7 +482,6 @@ Rosemary Land School
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kashif7Khan&hide_border=true&background=07111F&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&sideLabels=D7F9FF&dates=8BA3B5&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 </p>
----
 
 <!-- ═══════════════════════ PERSONAL ════════════════════════ -->
 
@@ -495,8 +494,6 @@ Rosemary Land School
 ✈️ **Travelling**
 
 </p>
-<br>
----
 
 <!-- ═══════════════════════ CONNECT ═════════════════════════ -->
 
