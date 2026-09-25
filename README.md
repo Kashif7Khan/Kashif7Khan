@@ -480,19 +480,11 @@ Rosemary Land School
 ## `09 // GITHUB ACTIVITY`
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kashif7Khan&show_icons=true&hide_border=true&bg_color=07111F&title_color=00F2FE&icon_color=4FACFE&text_color=D7F9FF&rank_icon=github&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif7Khan&layout=compact&hide_border=true&bg_color=07111F&title_color=00F2FE&text_color=D7F9FF" width="41%"/> -->
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kashif7Khan&hide_border=true&background=07111F&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&sideLabels=D7F9FF&dates=8BA3B5&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif7Khan&bg_color=07111F&color=D7F9FF&line=00F2FE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</p>
 
 ---
 
