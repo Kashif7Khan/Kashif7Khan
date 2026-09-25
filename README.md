@@ -1,216 +1,208 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                  MD KASHIF KHAN                             ║
+║              FUTURISTIC GITHUB PROFILE                      ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MD%20KASHIF%20KHAN&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=FULL%20STACK%20DEVELOPER&descAlignY=55&descSize=21&descColor=00F2FE&animation=fadeIn&color=0:030712,25:071B2E,50:004E64,75:00A6C7,100:4FACFE" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2600&pause=700&color=00F2FE&center=true&vCenter=true&width=850&height=50&lines=%3E+FULL+STACK+DEVELOPER;PHP+%2B+LARAVEL+%2B+REACT.js;BUILDING+PRODUCTION-READY+WEB+APPS;BACKEND+%7C+API+%7C+DATABASE+%7C+UI;TURNING+BUSINESS+IDEAS+INTO+DIGITAL+PRODUCTS" />
+
+<br>
+
+<a href="https://linkedin.com/in/kashif-khan-326a79268">
+<img src="https://img.shields.io/badge/LinkedIn-00F2FE?style=for-the-badge&logo=linkedin&logoColor=050B14"/>
+</a>
+&nbsp;
+<a href="mailto:khan9334279857@gmail.com">
+<img src="https://img.shields.io/badge/Email-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Kashif7Khan">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F2FE"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Kashif7Khan&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    MD KASHIF KHAN                          -->
-
-<!--                 PREMIUM GITHUB README                       -->
+<!--                         INTRO                              -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,35:0A2540,65:00B4D8,100:4FACFE&height=280&section=header&text=MD%20KASHIF%20KHAN&fontSize=64&fontAlignY=35&fontColor=FFFFFF&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20ENGINEER&descSize=18&descAlignY=55&descColor=9BE7FF&animation=fadeIn" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=800&height=55&lines=PHP+%7C+Laravel+%7C+React.js;Building+Production-Ready+Web+Applications;REST+APIs+%7C+MySQL+%7C+WordPress;Performance+%7C+SEO+%7C+Responsive+Design;Turning+Ideas+Into+Digital+Products" alt="Typing SVG"/>
-</p>
+## `◈ SYSTEM ONLINE`
 
-<p align="center">
-  <a href="https://linkedin.com/in/kashif-khan-326a79268">
-    <img src="https://img.shields.io/badge/LINKEDIN-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khan9334279857@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0077B6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Kashif7Khan">
-    <img src="https://img.shields.io/badge/GITHUB-0B1320?style=for-the-badge&logo=github&logoColor=00F2FE"/>
-  </a>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   MD KASHIF KHAN                                             │
+│   Full Stack Developer                                      │
+│                                                              │
+│   $ status                                                   │
+│   ● ONLINE                                                   │
+│                                                              │
+│   $ experience                                               │
+│   1+ Years                                                   │
+│                                                              │
+│   $ mission                                                  │
+│   Build • Optimize • Deploy                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kashif7Khan&style=flat-square&color=00F2FE&label=PROFILE+VIEWS"/>
-</p>
+</div>
 
-<br/>
+---
 
-<!-- ═══════════════════════ PROFILE ══════════════════════════ -->
+# `01` — ABOUT
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-## `01 // PROFILE`
+<td width="58%" valign="top">
 
-### Hey, I'm Kashif 👋
+### 👋 Hey, I'm Kashif
 
 I'm a **Full Stack Developer** with **1+ years of professional experience** building responsive web applications, backend systems, corporate websites and business-focused digital solutions.
 
-I work across the complete development cycle — from **database design and backend logic** to **responsive interfaces, deployment and optimization**.
+I work across the complete development cycle — from **database and backend logic** to **frontend interfaces, deployment, performance and SEO**.
 
-```yaml
-developer:
-  role: Full Stack Developer
-  location: Kolkata, India
-  experience: 1+ Years
+<br>
 
-  backend:
-    - PHP
-    - Laravel
-    - REST API
+### ⚡ I BUILD
 
-  frontend:
-    - JavaScript
-    - React.js
-    - Bootstrap
-    - Tailwind CSS
-
-  database:
-    - MySQL
-
-  cms:
-    - WordPress
-
-  focus:
-    - Scalable Web Applications
-    - Performance
-    - SEO
-    - Responsive Design
+```text
+01  Web Applications
+02  Corporate Websites
+03  Backend Systems
+04  REST APIs
+05  E-Commerce Platforms
+06  Landing Pages
+07  Database-Driven Solutions
+08  SEO & Performance Optimizations
 ```
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center">
 
-<img src="https://github.com/Kashif7Khan.png" width="220" alt="MD Kashif Khan"/>
+<img src="https://github.com/Kashif7Khan.png" width="210" alt="Kashif Khan"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00F2FE?style=for-the-badge&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-00F2FE?style=for-the-badge&labelColor=07111F"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/BUILD-DEPLOY-4FACFE?style=for-the-badge&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/1%2B%20YEARS-EXPERIENCE-4FACFE?style=for-the-badge&labelColor=07111F"/>
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/OPTIMIZE-REPEAT-00B4D8?style=for-the-badge&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/BUILDING-PRODUCTION-00B4D8?style=for-the-badge&labelColor=07111F"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ═══════════════════════ STACK ════════════════════════════ -->
+# `02` — THE STACK
 
-## `02 // TECHNOLOGY MATRIX`
+<div align="center">
 
-<p align="center">
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,mysql,wordpress,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 
-</p>
+<br><br>
 
-<br/>
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=php,laravel"/>
+
+<br><br>
+
+### DATABASE • CMS • TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode"/>
+
+<br><br>
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,php"/>
+
+</div>
+
+---
+
+# `03` — WHAT I DO
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### `FRONTEND`
+<td align="center" width="25%">
 
-HTML5
-CSS3
-JavaScript
-React.js
-Bootstrap 5
-Tailwind CSS
+### 🌐
+
+**WEB**
+
+Responsive
+Corporate
+Landing Pages
+Business Apps
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `BACKEND`
+### ⚙️
+
+**BACKEND**
 
 PHP
 Laravel
-REST API
+REST APIs
 OOP
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `DATA & CMS`
+### 🗄️
+
+**DATA**
 
 MySQL
-WordPress
 Database Design
-Query Optimization
+Optimization
+Secure Queries
 
 </td>
 
-<td width="25%" align="center">
-
-### `TOOLS`
-
-Git
-GitHub
-VS Code
-Deployment
-Hosting
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════ WHAT I BUILD ═════════════════════ -->
-
-## `03 // WHAT I BUILD`
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🌐
-
-## WEB
-
-**Applications**
-
-Corporate Websites
-Landing Pages
-Business Platforms
-Responsive Interfaces
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️
-
-## BACKEND
-
-**Systems**
-
-PHP Applications
-Laravel Systems
-REST APIs
-Database Solutions
-
-</td>
-
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🚀
 
-## DIGITAL
+**GROWTH**
 
-**Solutions**
-
-SEO Optimization
+SEO
 Performance
 Deployment
 Maintenance
@@ -222,99 +214,101 @@ Maintenance
 
 ---
 
-<!-- ═══════════════════════ EXPERIENCE ══════════════════════ -->
+# `04` — EXPERIENCE
 
-## `04 // EXPERIENCE`
+## 🟦 BluConnet Pvt. Ltd.
 
-### 🟦 BluConnet Pvt. Ltd.
+### `FULL STACK DEVELOPER` · `2025 — PRESENT`
 
-**Full Stack Developer · 2025 — Present · Kolkata, India**
+**Kolkata, India**
 
-> Building and maintaining production-ready web platforms, backend systems and business websites.
-
-```diff
-+ PHP & MySQL web platforms
-+ RESTful services
-+ Hosting & deployment environments
-+ Secure unsubscribe management
-+ Backend workflow optimization
-+ Website performance optimization
-+ SEO optimization
-+ Responsive corporate websites
-+ Cross-functional development
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  → Engineered web platforms using PHP & MySQL              │
+│  → Developed RESTful services                               │
+│  → Managed hosting & deployment environments                │
+│  → Built secure unsubscribe management systems             │
+│  → Optimized backend workflows                              │
+│  → Improved website performance & SEO                       │
+│  → Developed production corporate websites                 │
+│  → Collaborated with design & marketing teams              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+<br>
 
-### 🟪 UI Tech Lab LLP
+## 🟪 UI Tech Lab LLP
 
-**Full Stack Developer · 2024 — 2025**
+### `FULL STACK DEVELOPER` · `2024 — 2025`
 
-> Developed business web applications and database-driven systems.
-
-```diff
-+ PHP / JavaScript / MySQL applications
-+ Database-driven functionality
-+ Responsive user interfaces
-+ Object-oriented programming
-+ Query optimization
-+ Git & version control
-+ Cross-browser compatibility
-+ Agile development
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  → Built PHP / JavaScript / MySQL applications             │
+│  → Developed database-driven functionality                  │
+│  → Created responsive user interfaces                       │
+│  → Applied OOP principles                                    │
+│  → Optimized database queries                                │
+│  → Worked with Git & version control                         │
+│  → Fixed cross-browser compatibility issues                 │
+│  → Participated in Agile development                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═════════════════════════ -->
-
-## `05 // SELECTED PROJECTS`
+# `05` — FEATURED WORK
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🟣 BLUVIBE
+## 🟣 BLUVIBE
 
-**Premium E-Commerce Platform**
+### `PREMIUM E-COMMERCE`
 
-Enterprise-grade commerce platform developed using PHP, Laravel, MySQL, JavaScript and Bootstrap.
-
-**Built for**
-
-`Authentication`
-`Cart Processing`
-`Wishlists`
-`Reviews`
-`Admin Controls`
-
-**Stack**
+Enterprise-grade commerce platform built with:
 
 `PHP` `Laravel` `MySQL`
 `JavaScript` `Bootstrap`
+
+### FEATURES
+
+```text
+✓ Authentication
+✓ Cart Processing
+✓ Wishlists
+✓ Reviews
+✓ Admin Controls
+✓ Responsive Experience
+✓ Query Optimization
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🟠 LIBRAADS
+## 🟠 LIBRAADS
 
-**Digital Advertising Platform**
+### `DIGITAL ADVERTISING`
 
-Digital advertising platform with customized WordPress themes and optimized user experience.
+Digital advertising platform with customized WordPress themes.
 
-**Focus**
+### FOCUS
 
-`Responsive UI`
-`Business Websites`
-`Landing Pages`
-`Performance`
-`SEO`
-
-**Stack**
-
-`WordPress` `PHP`
-`JavaScript` `MySQL`
+```text
+✓ WordPress Development
+✓ Business Websites
+✓ Landing Pages
+✓ Responsive UI
+✓ SEO Optimization
+✓ Performance
+✓ Backend Scalability
+```
 
 </td>
 
@@ -324,43 +318,44 @@ Digital advertising platform with customized WordPress themes and optimized user
 
 <td width="50%" valign="top">
 
-### 🟢 JOB PORTAL
+## 🟢 JOB PORTAL
 
-**Recruitment Platform**
+### `RECRUITMENT PLATFORM`
 
-Recruitment platform featuring authentication, vacancy management and application tracking.
+Recruitment solution focused on vacancy and application management.
 
-**Features**
+### FEATURES
 
-`Authentication`
-`Vacancy Management`
-`Application Tracking`
-`Access Control`
-
-**Stack**
-
-`PHP` `MySQL` `JavaScript`
+```text
+✓ Authentication
+✓ Vacancy Management
+✓ Application Tracking
+✓ Permission-Based Access
+✓ Secure Database Communication
+✓ Maintainable Backend
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔵 CORPORATE WEB
+## 🔵 CORPORATE WEB
 
-**Business Website Development**
+### `PRODUCTION WEBSITES`
 
-Production websites developed and deployed for business clients.
+Delivered multiple production websites for business clients.
 
-**Projects**
+### PROJECTS
 
-`Bluconnet`
-`Bluconcare`
-`Blucontravel`
+```text
+→ Bluconnet
+→ Bluconcare
+→ Blucontravel
+```
 
-**Focus**
+### FOCUS
 
-`Hosting` `Domains`
-`Deployment` `UI/UX`
+`UI/UX` `Hosting` `Domains` `Deployment`
 
 </td>
 
@@ -369,79 +364,127 @@ Production websites developed and deployed for business clients.
 
 ---
 
-<!-- ═══════════════════════ CODE MINDSET ════════════════════ -->
+# `06` — DEVELOPMENT DNA
 
-## `06 // HOW I THINK`
+<div align="center">
+
+```text
+              ┌───────────────────────┐
+              │       PROBLEM         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       ANALYZE         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        DESIGN         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │         BUILD         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       OPTIMIZE        │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        DEPLOY         │
+              └───────────────────────┘
+```
+
+</div>
+
+<br>
 
 ```javascript
 const kashif = {
-  
-  approach: [
-    "Understand the problem",
-    "Design the solution",
-    "Build cleanly",
-    "Test thoroughly",
-    "Optimize continuously",
-    "Deploy confidently"
-  ],
+    philosophy: "Build things that work.",
 
-  principles: {
-    code: "Clean & Maintainable",
-    ui: "Responsive & Practical",
-    backend: "Secure & Scalable",
-    database: "Structured & Optimized",
-    deployment: "Production Ready"
-  },
+    code: [
+        "Clean",
+        "Maintainable",
+        "Scalable"
+    ],
 
-  mission:
-    "Build digital solutions that solve real business problems."
+    interface: [
+        "Responsive",
+        "Practical",
+        "User-focused"
+    ],
+
+    backend: [
+        "Secure",
+        "Structured",
+        "Optimized"
+    ],
+
+    workflow: [
+        "Analyze",
+        "Design",
+        "Develop",
+        "Test",
+        "Optimize",
+        "Deploy"
+    ]
 };
 ```
 
 ---
 
-<!-- ═══════════════════════ COMPETENCIES ════════════════════ -->
+# `07` — CORE SKILLS
 
-## `07 // CORE COMPETENCIES`
+<div align="center">
 
-<p align="center">
+| AREA            | TECHNOLOGIES                                                    |
+| :-------------- | :-------------------------------------------------------------- |
+| **Frontend**    | HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Tailwind CSS |
+| **Backend**     | PHP • Laravel • REST API                                        |
+| **Database**    | MySQL • Database Design • Query Optimization                    |
+| **CMS**         | WordPress                                                       |
+| **Programming** | C • C++ • JavaScript • PHP                                      |
+| **Tools**       | Git • GitHub • VS Code • Deployment                             |
+| **Engineering** | OOP • Responsive Design • SEO • Performance Optimization        |
 
-<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-00F2FE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/PHP%20DEVELOPMENT-4FACFE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/REACT.JS-00B4D8?style=for-the-badge&labelColor=07111F"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST%20API-00F2FE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/DATABASE%20DESIGN-4FACFE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/MYSQL-00B4D8?style=for-the-badge&labelColor=07111F"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/WORDPRESS-00F2FE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/SEO-4FACFE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/PERFORMANCE-00B4D8?style=for-the-badge&labelColor=07111F"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-00F2FE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/UI%2FUX-4FACFE?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/GIT%20%2F%20GITHUB-00B4D8?style=for-the-badge&labelColor=07111F"/>
-
-</p>
+</div>
 
 ---
 
-<!-- ═══════════════════════ EDUCATION ════════════════════════ -->
+# `08` — GITHUB TERMINAL
 
-## `08 // EDUCATION`
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────╮
+│  kashif@github ~ $                                 │
+│                                                    │
+│  ├── role        → Full Stack Developer            │
+│  ├── backend     → PHP / Laravel                   │
+│  ├── frontend    → React / JavaScript              │
+│  ├── database    → MySQL                           │
+│  ├── cms         → WordPress                       │
+│  ├── experience  → 1+ Years                        │
+│  ├── location    → Kolkata, India                  │
+│  │                                                 │
+│  └── current     → Building digital solutions      │
+│                                                    │
+│  kashif@github ~ $ █                               │
+╰────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `09` — EDUCATION
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎓 B.Tech
+### 🎓 B.TECH
 
 **Computer Science & Engineering**
 
@@ -452,16 +495,16 @@ University of Technology
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 📚 Academic Background
+### 📚 SCHOOLING
 
 **Higher Secondary — BSEB**
 
 Allama Iqbal College
 `67%`
 
-<br/>
+<br>
 
 **Secondary — CBSE**
 
@@ -475,57 +518,70 @@ Rosemary Land School
 
 ---
 
-<!-- ═══════════════════════ GITHUB ══════════════════════════ -->
+# `10` — GITHUB PULSE
 
-## `09 // GITHUB ACTIVITY`
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kashif7Khan&hide_border=true&background=07111F&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&sideLabels=D7F9FF&dates=8BA3B5&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Kashif7Khan&show_icons=true&hide_border=true&bg_color=07111F&title_color=00F2FE&icon_color=4FACFE&text_color=E6F7FF&rank_icon=github&include_all_commits=true" width="48%"/>
 
-<!-- ═══════════════════════ PERSONAL ════════════════════════ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif7Khan&layout=compact&hide_border=true&bg_color=07111F&title_color=00F2FE&text_color=E6F7FF" width="40%"/>
 
-## `10 // BEYOND CODE`
+<br><br>
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kashif7Khan&hide_border=true&background=07111F&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&sideLabels=E6F7FF&dates=7C91A6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
 
-🏏 **Cricket**   •  
-💻 **Coding**   •  
-✈️ **Travelling**
+</div>
 
-</p>
+---
+
+# `11` — BEYOND CODE
+
+<div align="center">
+
+### 🏏 CRICKET   •   💻 CODING   •   ✈️ TRAVELLING
+
+</div>
+
+---
+
+# `12` — CONNECT
+
+<div align="center">
+
+### HAVE A PROJECT IN MIND?
+
 <br>
 
-<!-- ═══════════════════════ CONNECT ═════════════════════════ -->
-
-## `11 // LET'S BUILD SOMETHING`
-
-<p align="center">
-
 <a href="mailto:khan9334279857@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20TALK-00F2FE?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=00F2FE"/>
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-00F2FE?style=for-the-badge&logo=gmail&logoColor=07111F"/>
 </a>
 
+<br><br>
+
 <a href="https://linkedin.com/in/kashif-khan-326a79268">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-4FACFE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-4FACFE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Kashif7Khan">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-07111F?style=for-the-badge&logo=github&logoColor=00F2FE"/>
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=00F2FE"/>
 </a>
 
-</p>
+</div>
 
-<br/>
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=BUILD.+SHIP.+OPTIMIZE.;GOOD+CODE+SOLVES+REAL+PROBLEMS.;SEE+YOU+ON+THE+OTHER+SIDE+%E2%9C%A8"/>
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Code.+Create.+Optimize.+Deploy.;Building+the+web%2C+one+solution+at+a+time."/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F2FE,35:0077B6,70:071B2E,100:030712" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:07111F&height=130&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <sub>© MD Kashif Khan · Full Stack Developer</sub>
+  <sub>MD Kashif Khan · Full Stack Developer</sub>
 </p>
