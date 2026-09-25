@@ -1,89 +1,119 @@
-<!-- ========================================================= -->
-
-<!--                    SHUBHAM DEY                            -->
-
-<!--              PREMIUM GITHUB PROFILE                       -->
-
-<!-- ========================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                  MD KASHIF KHAN                             ║
+║              FUTURISTIC GITHUB PROFILE                      ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&color1=7C3AED&color2=2563EB&height=230&section=header&text=SHUBHAM%20DEY&fontSize=64&fontAlign=50&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20CLOUD%20%7C%20GAMING&descAlign=50&descAlignY=57&descSize=17&animation=twinkling&fontColor=ffffff&descColor=E0E7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MD%20KASHIF%20KHAN&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=FULL%20STACK%20DEVELOPER&descAlignY=55&descSize=21&descColor=00F2FE&animation=fadeIn&color=0:030712,25:071B2E,50:004E64,75:00A6C7,100:4FACFE" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=MERN+%7C+Java+%7C+C%2B%2B+%7C+Python+%7C+PHP;Building+Scalable+Web+Products;Backend+%7C+Cloud+%7C+AI+%7C+Gaming;Developer+%2B+Creative+%2B+Problem+Solver;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2600&pause=700&color=00F2FE&center=true&vCenter=true&width=850&height=50&lines=%3E+FULL+STACK+DEVELOPER;PHP+%2B+LARAVEL+%2B+REACT.js;BUILDING+PRODUCTION-READY+WEB+APPS;BACKEND+%7C+API+%7C+DATABASE+%7C+UI;TURNING+BUSINESS+IDEAS+INTO+DIGITAL+PRODUCTS" />
 
 <br>
 
-<a href="https://github.com/shubham4dey">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/kashif-khan-326a79268">
+<img src="https://img.shields.io/badge/LinkedIn-00F2FE?style=for-the-badge&logo=linkedin&logoColor=050B14"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<a href="mailto:khan9334279857@gmail.com">
+<img src="https://img.shields.io/badge/Email-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://shubham4dey.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Kashif7Khan">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F2FE"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shubham4dey&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Kashif7Khan&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         INTRO                              -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `◈ SYSTEM ONLINE`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   MD KASHIF KHAN                                             │
+│   Full Stack Developer                                      │
+│                                                              │
+│   $ status                                                   │
+│   ● ONLINE                                                   │
+│                                                              │
+│   $ experience                                               │
+│   1+ Years                                                   │
+│                                                              │
+│   $ mission                                                  │
+│   Build • Optimize • Deploy                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## `01 // IDENTITY`
+# `01` — ABOUT
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### Hey, I'm **Shubham Dey** 👋
+### 👋 Hey, I'm Kashif
 
-I'm a **Software Engineer & Full Stack Developer** who enjoys turning ideas into scalable digital products.
+I'm a **Full Stack Developer** with **1+ years of professional experience** building responsive web applications, backend systems, corporate websites and business-focused digital solutions.
 
-My work sits at the intersection of:
+I work across the complete development cycle — from **database and backend logic** to **frontend interfaces, deployment, performance and SEO**.
+
+<br>
+
+### ⚡ I BUILD
 
 ```text
-Software Engineering
-        +
-Web Development
-        +
-Cloud & AI
-        +
-Gaming Technology
-        +
-Creative Digital Experiences
+01  Web Applications
+02  Corporate Websites
+03  Backend Systems
+04  REST APIs
+05  E-Commerce Platforms
+06  Landing Pages
+07  Database-Driven Solutions
+08  SEO & Performance Optimizations
 ```
-
-I enjoy working across the stack — from designing interfaces and APIs to databases, deployment and production systems.
-
-### Currently Exploring
-
-`AI` `Cloud` `MERN` `Backend` `Gaming`
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://github.com/shubham4dey.png" width="190" alt="Shubham Dey"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SOFTWARE-ENGINEER-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://github.com/Kashif7Khan.png" width="210" alt="Kashif Khan"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FULL-STACK-2563EB?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-00F2FE?style=for-the-badge&labelColor=07111F"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/1%2B%20YEARS-EXPERIENCE-4FACFE?style=for-the-badge&labelColor=07111F"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-PRODUCTION-00B4D8?style=for-the-badge&labelColor=07111F"/>
 
 </td>
 
@@ -92,109 +122,90 @@ I enjoy working across the stack — from designing interfaces and APIs to datab
 
 ---
 
-## `02 // DEVELOPER TERMINAL`
+# `02` — THE STACK
 
 <div align="center">
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  shubham@dev ~ $ whoami                                    │
-│                                                            │
-│  ┌──────────────────────────────────────────────────────┐  │
-│  │                                                      │  │
-│  │   SHUBHAM DEY                                        │  │
-│  │   Software Engineer                                  │  │
-│  │                                                      │  │
-│  │   Stack     → MERN / Java / Python / C++ / PHP      │  │
-│  │   Focus     → Backend / Cloud / AI / Gaming         │  │
-│  │   Education → B.Tech CSE — Gaming Technology        │  │
-│  │   Community → AI Club — Tech Lead                   │  │
-│  │                                                      │  │
-│  └──────────────────────────────────────────────────────┘  │
-│                                                            │
-│  shubham@dev ~ $ ./build-something-awesome                 │
-│                                                            │
-│  ████████████████████████████████████████ 100%             │
-│                                                            │
-│  ✓ SYSTEM READY                                             │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+
+<br><br>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=php,laravel"/>
+
+<br><br>
+
+### DATABASE • CMS • TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode"/>
+
+<br><br>
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,php"/>
 
 </div>
 
 ---
 
-## `03 // TECH UNIVERSE`
-
-<div align="center">
-
-### ⚡ CORE
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,php,js"/>
-
-<br><br>
-
-### 🌐 FULL STACK
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind,redux"/>
-
-<br><br>
-
-### ☁️ CLOUD / TOOLS
-
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,vercel,docker"/>
-
-</div>
-
-<br>
+# `03` — WHAT I DO
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `FRONTEND`
+### 🌐
 
-React
-React Native
-Tailwind
-HTML / CSS
-Redux
+**WEB**
+
+Responsive
+Corporate
+Landing Pages
+Business Apps
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `BACKEND`
+### ⚙️
 
-Node.js
-Express
+**BACKEND**
+
 PHP
+Laravel
 REST APIs
+OOP
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `DATA`
+### 🗄️
 
-MongoDB
+**DATA**
+
 MySQL
-SQL
-JSON
+Database Design
+Optimization
+Secure Queries
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### `CLOUD`
+### 🚀
 
-Google Cloud
-Vercel
-Render
+**GROWTH**
+
+SEO
+Performance
 Deployment
+Maintenance
 
 </td>
 
@@ -203,147 +214,101 @@ Deployment
 
 ---
 
-## `04 // WHAT I BUILD`
+# `04` — EXPERIENCE
 
-<table>
-<tr>
+## 🟦 BluConnet Pvt. Ltd.
 
-<td width="33%" align="center">
+### `FULL STACK DEVELOPER` · `2025 — PRESENT`
 
-### 🧠 AI PRODUCTS
-
-AI-powered applications
-Intelligent features
-Gemini integrations
-Automation
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 WEB PRODUCTS
-
-Full-stack applications
-Business platforms
-Admin systems
-Responsive experiences
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎮 DIGITAL EXPERIENCES
-
-Gaming technology
-Interactive experiences
-Creative interfaces
-Experiments
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `05 // EXPERIENCE`
-
-### 🔵 Unstop
-
-**Tech Content Developer · Internship**
-
-Worked on technology-focused content, assessments and collaboration with the Practice team.
+**Kolkata, India**
 
 ```text
-CONTENT
-   ↓
-TECHNICAL ASSESSMENTS
-   ↓
-STUDENT-FOCUSED PRODUCTS
-   ↓
-COLLABORATION
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  → Engineered web platforms using PHP & MySQL              │
+│  → Developed RESTful services                               │
+│  → Managed hosting & deployment environments                │
+│  → Built secure unsubscribe management systems             │
+│  → Optimized backend workflows                              │
+│  → Improved website performance & SEO                       │
+│  → Developed production corporate websites                 │
+│  → Collaborated with design & marketing teams              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
----
+<br>
 
-### 🟣 AI Club — VIT Bhopal
+## 🟪 UI Tech Lab LLP
 
-**Tech Lead**
-
-Leading technical initiatives and working around AI, development and technology-focused projects.
-
-```diff
-+ Technical Leadership
-+ AI / Technology Projects
-+ Team Collaboration
-+ Developer Community
-```
-
----
-
-### 🎯 Creative & Community Roles
+### `FULL STACK DEVELOPER` · `2024 — 2025`
 
 ```text
-AI Club              → Tech Lead
-AI Club              → Marketing Lead
-Bengali Club         → Marketing Lead
-Music Club           → Member
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  → Built PHP / JavaScript / MySQL applications             │
+│  → Developed database-driven functionality                  │
+│  → Created responsive user interfaces                       │
+│  → Applied OOP principles                                    │
+│  → Optimized database queries                                │
+│  → Worked with Git & version control                         │
+│  → Fixed cross-browser compatibility issues                 │
+│  → Participated in Agile development                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `06 // SELECTED BUILDS`
+# `05` — FEATURED WORK
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔮 PlutoAstro
+## 🟣 BLUVIBE
 
-**Astrology Platform**
+### `PREMIUM E-COMMERCE`
 
-A full-stack astrology ecosystem with user-facing features, astrologer functionality and administration systems.
+Enterprise-grade commerce platform built with:
+
+`PHP` `Laravel` `MySQL`
+`JavaScript` `Bootstrap`
+
+### FEATURES
 
 ```text
-React
-Node.js
-MongoDB
-Gemini / AI
-Cloudinary
-REST APIs
+✓ Authentication
+✓ Cart Processing
+✓ Wishlists
+✓ Reviews
+✓ Admin Controls
+✓ Responsive Experience
+✓ Query Optimization
 ```
-
-**Built around**
-
-`User Portal`
-`Astrologer Portal`
-`Admin Portal`
-`AI Features`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AstroGPT
+## 🟠 LIBRAADS
 
-**AI × Astrology**
+### `DIGITAL ADVERTISING`
 
-An experimental AI-powered astrology experience combining web technology with generative AI.
+Digital advertising platform with customized WordPress themes.
+
+### FOCUS
 
 ```text
-React
-Node.js
-AI
-Gemini
-REST APIs
+✓ WordPress Development
+✓ Business Websites
+✓ Landing Pages
+✓ Responsive UI
+✓ SEO Optimization
+✓ Performance
+✓ Backend Scalability
 ```
-
-**Focus**
-
-`AI Integration`
-`Interactive UX`
-`Scalable Backend`
 
 </td>
 
@@ -353,45 +318,44 @@ REST APIs
 
 <td width="50%" valign="top">
 
-### 💼 BluConnet Platform
+## 🟢 JOB PORTAL
 
-**B2B / CRM Ecosystem**
+### `RECRUITMENT PLATFORM`
 
-A business platform involving company management, lead workflows, employee roles, imports, reporting and access control.
+Recruitment solution focused on vacancy and application management.
+
+### FEATURES
 
 ```text
-React
-Node.js
-MongoDB / SQL
-REST API
-RBAC
+✓ Authentication
+✓ Vacancy Management
+✓ Application Tracking
+✓ Permission-Based Access
+✓ Secure Database Communication
+✓ Maintainable Backend
 ```
-
-**Architecture**
-
-`Super Admin`
-`Admin`
-`Manager`
-`Employee`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📱 Digital Products
+## 🔵 CORPORATE WEB
 
-**Web → Mobile → Cloud**
+### `PRODUCTION WEBSITES`
 
-Working across production web platforms, deployment workflows and mobile experiences.
+Delivered multiple production websites for business clients.
+
+### PROJECTS
 
 ```text
-React
-React Native
-Node.js
-Vercel
-Render
-Cloud Services
+→ Bluconnet
+→ Bluconcare
+→ Blucontravel
 ```
+
+### FOCUS
+
+`UI/UX` `Hosting` `Domains` `Deployment`
 
 </td>
 
@@ -400,34 +364,34 @@ Cloud Services
 
 ---
 
-## `07 // ENGINEERING MINDSET`
+# `06` — DEVELOPMENT DNA
 
 <div align="center">
 
 ```text
-                  ┌──────────────┐
-                  │    IDEA      │
-                  └──────┬───────┘
-                         ↓
-                ┌────────────────┐
-                │    DESIGN      │
-                └───────┬────────┘
-                        ↓
-                ┌────────────────┐
-                │     BUILD      │
-                └───────┬────────┘
-                        ↓
-                ┌────────────────┐
-                │    INTEGRATE   │
-                └───────┬────────┘
-                        ↓
-                ┌────────────────┐
-                │   DEPLOY 🚀    │
-                └───────┬────────┘
-                        ↓
-                ┌────────────────┐
-                │    IMPROVE     │
-                └────────────────┘
+              ┌───────────────────────┐
+              │       PROBLEM         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       ANALYZE         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        DESIGN         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │         BUILD         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       OPTIMIZE        │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        DEPLOY         │
+              └───────────────────────┘
 ```
 
 </div>
@@ -435,126 +399,171 @@ Cloud Services
 <br>
 
 ```javascript
-const shubham = {
-    role: "Software Engineer",
+const kashif = {
+    philosophy: "Build things that work.",
 
-    mindset: [
-        "Build",
-        "Experiment",
-        "Learn",
-        "Ship",
-        "Improve"
+    code: [
+        "Clean",
+        "Maintainable",
+        "Scalable"
     ],
 
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "Gaming Technology",
-        "Creative Technology"
+    interface: [
+        "Responsive",
+        "Practical",
+        "User-focused"
     ],
 
-    goal:
-      "Create useful technology with great user experiences."
+    backend: [
+        "Secure",
+        "Structured",
+        "Optimized"
+    ],
+
+    workflow: [
+        "Analyze",
+        "Design",
+        "Develop",
+        "Test",
+        "Optimize",
+        "Deploy"
+    ]
 };
 ```
 
 ---
 
-## `08 // EDUCATION`
+# `07` — CORE SKILLS
 
 <div align="center">
 
-### 🎓 VIT BHOPAL UNIVERSITY
-
-**B.Tech — Computer Science & Engineering**
-
-`Specialization: Gaming Technology`
+| AREA            | TECHNOLOGIES                                                    |
+| :-------------- | :-------------------------------------------------------------- |
+| **Frontend**    | HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Tailwind CSS |
+| **Backend**     | PHP • Laravel • REST API                                        |
+| **Database**    | MySQL • Database Design • Query Optimization                    |
+| **CMS**         | WordPress                                                       |
+| **Programming** | C • C++ • JavaScript • PHP                                      |
+| **Tools**       | Git • GitHub • VS Code • Deployment                             |
+| **Engineering** | OOP • Responsive Design • SEO • Performance Optimization        |
 
 </div>
 
 ---
 
-## `09 // CERTIFICATIONS`
+# `08` — GITHUB TERMINAL
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Coursera-Industrial%20IoT%20%26%20Security-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+```text
+╭────────────────────────────────────────────────────╮
+│  kashif@github ~ $                                 │
+│                                                    │
+│  ├── role        → Full Stack Developer            │
+│  ├── backend     → PHP / Laravel                   │
+│  ├── frontend    → React / JavaScript              │
+│  ├── database    → MySQL                           │
+│  ├── cms         → WordPress                       │
+│  ├── experience  → 1+ Years                        │
+│  ├── location    → Kolkata, India                  │
+│  │                                                 │
+│  └── current     → Building digital solutions      │
+│                                                    │
+│  kashif@github ~ $ █                               │
+╰────────────────────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-## `10 // GITHUB PULSE`
+# `09` — EDUCATION
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎓 B.TECH
+
+**Computer Science & Engineering**
+
+Maulana Abul Kalam Azad
+University of Technology
+
+`2019 — 2023`
+
+</td>
+
+<td width="50%" align="center">
+
+### 📚 SCHOOLING
+
+**Higher Secondary — BSEB**
+
+Allama Iqbal College
+`67%`
+
+<br>
+
+**Secondary — CBSE**
+
+Rosemary Land School
+`CGPA 8.6`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `10` — GITHUB PULSE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubham4dey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kashif7Khan&show_icons=true&hide_border=true&bg_color=07111F&title_color=00F2FE&icon_color=4FACFE&text_color=E6F7FF&rank_icon=github&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4dey&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif7Khan&layout=compact&hide_border=true&bg_color=07111F&title_color=00F2FE&text_color=E6F7FF" width="40%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=shubham4dey&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Kashif7Khan&hide_border=true&background=07111F&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&sideLabels=E6F7FF&dates=7C91A6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
 
 </div>
 
 ---
 
-## `11 // CONTRIBUTION GRAPH`
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham4dey&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=58A6FF&area=true&hide_border=true&custom_title=Shubham%20Dey%20-%20Contribution%20Activity" width="100%"/>
-
-</p>
-
----
-
-## `12 // BEYOND CODE`
+# `11` — BEYOND CODE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎵-MUSIC-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🎤-SINGING-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🎮-GAMING-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🤖-AI-2563EB?style=for-the-badge&labelColor=0D1117"/>
+### 🏏 CRICKET   •   💻 CODING   •   ✈️ TRAVELLING
 
 </div>
+
+---
+
+# `12` — CONNECT
+
+<div align="center">
+
+### HAVE A PROJECT IN MIND?
 
 <br>
 
-<div align="center">
-
-> **Code is what I build.
-> Music is what I feel.
-> Gaming is what I explore.
-> Technology is where they meet.**
-
-</div>
-
----
-
-## `13 // CONNECT`
-
-<div align="center">
-
-### LET'S BUILD SOMETHING 🚀
-
-<br>
-
-<a href="https://github.com/shubham4dey">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:khan9334279857@gmail.com">
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-00F2FE?style=for-the-badge&logo=gmail&logoColor=07111F"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+<a href="https://linkedin.com/in/kashif-khan-326a79268">
+<img src="https://img.shields.io/badge/LINKEDIN-4FACFE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://shubham4dey.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/Kashif7Khan">
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=00F2FE"/>
 </a>
 
 </div>
@@ -563,18 +572,16 @@ const shubham = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Build+something+useful.;Ship+something+meaningful.;Keep+creating.;Keep+exploring." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=BUILD.+SHIP.+OPTIMIZE.;GOOD+CODE+SOLVES+REAL+PROBLEMS.;SEE+YOU+ON+THE+OTHER+SIDE+%E2%9C%A8"/>
 
 </div>
 
 <br>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=7C3AED&color2=2563EB&height=130&section=footer&animation=twinkling" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F2FE,35:0077B6,70:071B2E,100:030712" width="100%"/>
 </p>
 
 <p align="center">
-<sub>© Shubham Dey · Software Engineer</sub>
+  <sub>MD Kashif Khan · Full Stack Developer</sub>
 </p>
