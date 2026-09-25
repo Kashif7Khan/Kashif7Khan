@@ -30,7 +30,7 @@
       <br><br>
       <img src="https://img.shields.io/badge/👨‍💻_Full_Stack-Developer-00f2fe?style=for-the-badge" alt="Developer" />
       <br><br>
-      <img src="https://img.shields.io/badge/📍_Location-India-4facfe?style=for-the-badge&logo=maps&logoColor=white" alt="Location" />
+      <img src="https://img.shields.io/badge/_Location-India-4facfe?style=for-the-badge&logo=maps&logoColor=white" alt="Location" />
       <br>
       <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00C9FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work" />
       <br><br>
@@ -45,11 +45,11 @@
       
       <h4>🎯 What I Do:</h4>
       <ul>
-        <li>🌐 Build <strong>corporate websites</strong> & <strong>web applications</strong></li>
-        <li>️ Develop robust <strong>backend systems</strong> & <strong>RESTful APIs</strong></li>
+        <li> Build <strong>corporate websites</strong> & <strong>web applications</strong></li>
+        <li>⚙️ Develop robust <strong>backend systems</strong> & <strong>RESTful APIs</strong></li>
         <li>🛒 Create <strong>e-commerce platforms</strong> & business solutions</li>
         <li>📱 Design <strong>responsive interfaces</strong> & user experiences</li>
-        <li>⚡ Optimize <strong>performance</strong> & <strong>SEO</strong></li>
+        <li> Optimize <strong>performance</strong> & <strong>SEO</strong></li>
         <li>💡 Transform ideas into <strong>scalable digital products</strong></li>
       </ul>
       
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-### ** Frontend Development**
+### **🎨 Frontend Development**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### **⚙️ Backend Development**
+### **️ Backend Development**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -114,7 +114,7 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="middle">
-      <h2></h2>
+      <h2>🌐</h2>
       <h3>Web Applications</h3>
       <p>• Responsive business applications<br>• Corporate websites<br>• Landing pages<br>• Digital platforms</p>
     </td>
@@ -124,7 +124,7 @@
       <p>• PHP applications<br>• Laravel systems<br>• REST APIs<br>• Database solutions</p>
     </td>
     <td width="33%" align="center" valign="middle">
-      <h2></h2>
+      <h2>🚀</h2>
       <h3>Digital Solutions</h3>
       <p>• SEO optimization<br>• Performance tuning<br>• Deployment<br>• Maintenance</p>
     </td>
@@ -135,7 +135,7 @@
 
 ## 🏢 Professional Experience
 
-### ** BluConnet Pvt. Ltd.**
+### **🟣 BluConnet Pvt. Ltd.**
 **Full Stack Developer** · *2025 — Present*
 
 Working on production web platforms, backend systems, and business websites.
@@ -150,7 +150,7 @@ Working on production web platforms, backend systems, and business websites.
 
 ---
 
-### **🔵 UI Tech Lab LLP**
+### ** UI Tech Lab LLP**
 **Full Stack Developer** · *2024 — 2025*
 
 Worked on business web applications and database-driven systems.
@@ -183,35 +183,9 @@ An enterprise-grade commerce platform built with modern web technologies.
 **Core Features:**
 
 
-
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashif7Khan&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=00000000&title_color=00f2fe&text_color=ffffff&icon_color=4facfe" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif7Khan&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f2fe&text_color=ffffff&icon_color=4facfe" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kashif7Khan&theme=transparent&hide_border=true&background=00000000&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif7Khan&theme=react-dark&hide_border=true&bg_color=0d1117&line=00f2fe&point=4facfe&area=true&color=white" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-##  Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kashif7Khan&theme=onestar&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎯 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kashif-khan-326a79268" target="_blank">
